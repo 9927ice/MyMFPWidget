@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialKeyguardLayout="@layout/fubon_widget"
+    android:initialLayout="@layout/fubon_widget"
+    android:minHeight="40dp"
+    android:minWidth="240dp"
+    android:previewImage="@drawable/example_appwidget_preview"
+    android:resizeMode="none"
+    android:updatePeriodMillis="1800000"
+    android:widgetCategory="home_screen"></appwidget-provider>
